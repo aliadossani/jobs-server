@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "jobId": 1,
+            "image": "https://wellfound.com/company/mediamelon-3",
+            "companyName": "MediaMelon",
+            "companyDescription": "B2B SaaS Data Platform for Video Streaming (OTT) Analytics",
+            "companyOverview": "",
+            "socialLinks": {
+                "website": "",
+                "twitter": "",
+                "linkedIn": ""
+            },
+            "companyTotalFunding": {
+                "currencySymbol": "$",
+                "amount": 0
+            },
+            "companyLocations": [
+                {
+                    "country": "",
+                    "city": ""
+                }
+            ],
+            "companySize": "",
+            "tags": [
+                {
+                    "name": "",
+                    "textColor": "",
+                    "icon": "",
+                    "backgroundColor": ""
+                }
+            ],
+            "jobPosition": "",
+            "jobLocation": {
+                "country": "",
+                "city": ""
+            },
+            "salary": {
+                "minimum": 0,
+                "maximum": 0,
+                "currencySymbol": "$"
+            },
+            "jobCreatedAt": "",
+            "isJobSaved": false,
+            "isApplied": false
+        }
+    ]
+}
