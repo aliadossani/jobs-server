@@ -5,11 +5,11 @@
             "image": "https://photos.wellfound.com/startups/i/351385-ea5b6a4c87ac1d32c798e9e1052a22f4-medium_jpg.jpg?buster=1659210294",
             "companyName": "MediaMelon",
             "companyDescription": "B2B SaaS Data Platform for Video Streaming (OTT) Analytics",
-            "companyOverview": "",
+            "companyOverview": "MediaMelon content-aware streaming technology for multi-screen and OTT video services is a unique approach that enables premium viewing experiences while minimizing operational costs, increasing revenues and improving profitability -- all without changing the existing video workflow. MediaMelon's full portfolio of solutions include content-aware streaming, intelligent content routing and analytics that create a global software fabric for efficient video streaming. MediaMelon QBR™ technology was named a Product Innovation Award winner in 2015 by Video Edge Magazine and received an outstanding score in the BTR Diamond Technology Reviews, judged by leading cable operators in the United States.",
             "socialLinks": {
-                "website": "",
-                "twitter": "",
-                "linkedIn": ""
+                "website": "www.mediamelon.com",
+                "twitter": "https://twitter.com/mediamelon?lang=en",
+                "linkedIn": "https://www.linkedin.com/company/mediamelon/"
             },
             "companyTotalFunding": {
                 "currencySymbol": "$",
@@ -17,30 +17,39 @@
             },
             "companyLocations": [
                 {
-                    "country": "",
-                    "city": ""
+                    "country": "Germany",
+                    "city": "Berlin"
                 }
             ],
-            "companySize": "",
+            "companySize": "11-50 EMPLOYEES",
             "tags": [
                 {
-                    "name": "",
-                    "textColor": "",
-                    "icon": "",
-                    "backgroundColor": ""
+                    "name": "ACTIVELY HIRING",
+                    "textColor": "#00FF00",
+                    "backgroundColor": "#e0f9ea"
+                },
+                {
+                    "name": "HIGHLY RATED",
+                    "textColor": "#FFA500",
+                    "backgroundColor": "#fff9e7"
+                },
+                {
+                    "name": "GROWING FAST",
+                    "textColor": "#7F00FF",
+                    "backgroundColor": "#f8f1ff"
                 }
             ],
             "jobPosition": "Engineering Manager",
             "jobLocation": {
-                "country": "",
-                "city": ""
+                "country": "Germany",
+                "city": "Berlin"
             },
             "salary": {
                 "minimum": "28k",
                 "maximum": "40k",
                 "currencySymbol": "$"
             },
-            "jobCreatedAt": "",
+            "jobCreatedAt": "POSTED 3 WEEKS AGO",
             "isJobSaved": false,
             "isApplied": false
         },
@@ -49,11 +58,11 @@
             "image": "https://photos.wellfound.com/startups/i/27490-b8cb93e8d497683a2dea3387f8ca1c7b-medium_jpg.jpg?buster=1589465676",
             "companyName": "FieldWire",
             "companyDescription": "Easy-to-use software revolutionizing, transforming the way construction teams coordinate",
-            "companyOverview": "",
+            "companyOverview": "Fieldwire is the easiest way for construction companies to stay organized on the job site! Over 4,000 construction companies of all sizes use Fieldwire on nearly 1 million projects worldwide. Our easy-to-use mobile app includes plan viewing, task management, issue tracking, reporting, and more all in one place--think Dropbox, Slack, JIRA, and Trello combined and designed specifically for construction.",
             "socialLinks": {
-                "website": "",
-                "twitter": "",
-                "linkedIn": ""
+                "website": "www.fieldwire.com/",
+                "twitter": "https://twitter.com/fieldwirehq",
+                "linkedIn": "https://www.linkedin.com/company/fieldwirelabs"
             },
             "companyTotalFunding": {
                 "currencySymbol": "$",
@@ -65,26 +74,35 @@
                     "city": "Paris"
                 }
             ],
-            "companySize": "",
+            "companySize": "51-200 EMPLOYEES",
             "tags": [
                 {
-                    "name": "",
-                    "textColor": "",
-                    "icon": "",
-                    "backgroundColor": ""
+                    "name": "ACTIVELY HIRING",
+                    "textColor": "#00FF00",
+                    "backgroundColor": "#e0f9ea"
+                },
+                {
+                    "name": "HIGHLY RATED",
+                    "textColor": "#FFA500",
+                    "backgroundColor": "#fff9e7"
+                },
+                {
+                    "name": "GROWING FAST",
+                    "textColor": "#7F00FF",
+                    "backgroundColor": "#f8f1ff"
                 }
             ],
             "jobPosition": "Engineering Manager",
             "jobLocation": {
-                "country": "",
-                "city": ""
+                "country": "France",
+                "city": "Paris"
             },
             "salary": {
                 "minimum": "80k",
                 "maximum": "100k",
                 "currencySymbol": "$"
             },
-            "jobCreatedAt": "",
+            "jobCreatedAt": "POSTED 3 WEEKS AGO",
             "isJobSaved": false,
             "isApplied": false
         },
@@ -95,9 +113,9 @@
             "companyDescription": "Comeen is the platform for todays workplace experience",
             "companyOverview": "",
             "socialLinks": {
-                "website": "",
+                "website": "comeen.com",
                 "twitter": "",
-                "linkedIn": ""
+                "linkedIn": "https://www.linkedin.com/company/comeen-get-comeen/"
             },
             "companyTotalFunding": {
                 "currencySymbol": "$",
@@ -105,30 +123,39 @@
             },
             "companyLocations": [
                 {
-                    "country": "",
-                    "city": ""
+                    "country": "Germany",
+                    "city": "Hamburg"
                 }
             ],
-            "companySize": "",
+            "companySize": "11-50 EMPLOYEES",
             "tags": [
                 {
-                    "name": "",
-                    "textColor": "",
-                    "icon": "",
-                    "backgroundColor": ""
+                    "name": "ACTIVELY HIRING",
+                    "textColor": "#00FF00",
+                    "backgroundColor": "#e0f9ea"
+                },
+                {
+                    "name": "HIGHLY RATED",
+                    "textColor": "#FFA500",
+                    "backgroundColor": "#fff9e7"
+                },
+                {
+                    "name": "GROWING FAST",
+                    "textColor": "#7F00FF",
+                    "backgroundColor": "#f8f1ff"
                 }
             ],
             "jobPosition": "Tech Lead",
             "jobLocation": {
-                "country": "France",
-                "city": "Paris"
+                "country": "Germany",
+                "city": "Hamburg"
             },
             "salary": {
                 "minimum": "50k",
                 "maximum": "67k",
                 "currencySymbol": "$"
             },
-            "jobCreatedAt": "",
+            "jobCreatedAt": "POSTED 2 MONTHS AGO",
             "isJobSaved": false,
             "isApplied": false
         }
