@@ -49,7 +49,7 @@
                 "maximum": "40k",
                 "currencySymbol": "$"
             },
-            "jobCreatedAt": "POSTED 3 WEEKS AGO",
+            "jobCreatedAt": "POSTED TODAY",
             "isJobSaved": false,
             "isApplied": false
         },
@@ -65,7 +65,7 @@
                 "linkedIn": "https://www.linkedin.com/company/fieldwirelabs"
             },
             "companyTotalFunding": {
-                "currencySymbol": "$",
+                "currencySymbol": "€",
                 "amount": 0
             },
             "companyLocations": [
@@ -76,11 +76,6 @@
             ],
             "companySize": "51-200 EMPLOYEES",
             "tags": [
-                {
-                    "name": "ACTIVELY HIRING",
-                    "textColor": "#00FF00",
-                    "backgroundColor": "#e0f9ea"
-                },
                 {
                     "name": "HIGHLY RATED",
                     "textColor": "#FFA500",
@@ -100,7 +95,7 @@
             "salary": {
                 "minimum": "80k",
                 "maximum": "100k",
-                "currencySymbol": "$"
+                "currencySymbol": "€"
             },
             "jobCreatedAt": "POSTED 3 WEEKS AGO",
             "isJobSaved": false,
@@ -118,13 +113,13 @@
                 "linkedIn": "https://www.linkedin.com/company/comeen-get-comeen/"
             },
             "companyTotalFunding": {
-                "currencySymbol": "$",
+                "currencySymbol": "₹",
                 "amount": 0
             },
             "companyLocations": [
                 {
-                    "country": "Germany",
-                    "city": "Hamburg"
+                    "country": "India",
+                    "city": "Mumbai"
                 }
             ],
             "companySize": "11-50 EMPLOYEES",
@@ -133,11 +128,6 @@
                     "name": "ACTIVELY HIRING",
                     "textColor": "#00FF00",
                     "backgroundColor": "#e0f9ea"
-                },
-                {
-                    "name": "HIGHLY RATED",
-                    "textColor": "#FFA500",
-                    "backgroundColor": "#fff9e7"
                 },
                 {
                     "name": "GROWING FAST",
@@ -153,7 +143,7 @@
             "salary": {
                 "minimum": "50k",
                 "maximum": "67k",
-                "currencySymbol": "$"
+                "currencySymbol": "₹"
             },
             "jobCreatedAt": "POSTED 2 MONTHS AGO",
             "isJobSaved": false,
