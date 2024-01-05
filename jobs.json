@@ -2,6 +2,7 @@
     "jobs": [
         {
             "jobId": 1,
+            "id": 1,
             "image": "https://photos.wellfound.com/startups/i/351385-ea5b6a4c87ac1d32c798e9e1052a22f4-medium_jpg.jpg?buster=1659210294",
             "companyName": "MediaMelon",
             "companyDescription": "B2B SaaS Data Platform for Video Streaming (OTT) Analytics",
@@ -55,6 +56,7 @@
         },
         {
             "jobId": 2,
+            "id": 2,
             "image": "https://photos.wellfound.com/startups/i/27490-b8cb93e8d497683a2dea3387f8ca1c7b-medium_jpg.jpg?buster=1589465676",
             "companyName": "FieldWire",
             "companyDescription": "Easy-to-use software revolutionizing, transforming the way construction teams coordinate",
@@ -103,6 +105,7 @@
         },
         {
             "jobId": 3,
+            "id": 3,
             "image": "https://photos.wellfound.com/startups/i/6703167-0bd8ab68bd45fc7ec6c64ccf949b9781-medium_jpg.jpg?buster=1658736522",
             "companyName": "Comeen",
             "companyDescription": "Comeen is the platform for todays workplace experience",
