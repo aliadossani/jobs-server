@@ -4,7 +4,7 @@
   "description": "",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start-server": "json-server --watch jobs.json --port 8000"
+    "start": "json-server --watch jobs.json --port 8000"
   },
   "author": "",
   "license": "ISC",
