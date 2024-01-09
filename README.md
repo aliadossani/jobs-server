@@ -39,5 +39,7 @@ The Job Genie is an online platform designed to connect job seekers with employe
 - [Slides Link](https://docs.google.com/presentation/d/1tDmrv3121i8vMXf9gzZF5zm1iG6OEskW4T-rZhPG1I0/edit#slide=id.g2acd3951389_0_0)
 - [Github FE repository Link](https://github.com/aliadossani/job-portal/)
 - [Github BE repository Link](https://github.com/aliadossani/jobs-server)
+- [Deployed FE Link](https://cheery-licorice-6d9634.netlify.app/)
+- [Deployed BE Link](https://lazy-ruby-centipede-hose.cyclic.app/jobs)
 - [Team member 1: Alia Dossani](https://github.com/aliadossani)
 - [Team member 2: Prabeshika Koirala](https://github.com/Prabeshikak)
