@@ -195,6 +195,60 @@
       "jobCreatedAt": "09/01/2024",
       "isJobSaved": false,
       "isApplied": false
+    },
+    {
+      "jobId": 6,
+      "id": 6,
+      "image": "https://photos.wellfound.com/startups/i/9767833-2684e4e7a150321c37df0f57e55ae38b-medium_jpg.jpg?buster=1695255792",
+      "companyName": "Zenfeat",
+      "companyDescription": "Making culinary endeavors & recognition a priority",
+      "companyOverview": "We are a platform for chefs & cooks to express their culinary adventures, skills, and experiences all in one place and have others marvel at the talent that is often overlooked. The purpose of our existence is to provide opportunity. Opportunity that is not currently provided to a group of individuals whom we believe to be artisans for their craft. Through our free services, you will be able to display your skills, pursue your dreams, and achieve",
+      "socialLinks": {
+        "website": "zenfeat.com/",
+        "twitter": "https://twitter.com/therealzenfeat",
+        "linkedIn": "https://www.linkedin.com/company/zenfeat/"
+      },
+      "companyTotalFunding": {
+        "currencySymbol": "",
+        "amount": ""
+      },
+      "companyLocations": [
+        {
+          "country": "Germany",
+          "city": "Berlin"
+        }
+      ],
+      "companySize": "1-10 people",
+      "tags": [
+        {
+          "name": "ACTIVELY HIRING",
+          "textColor": "#00FF00",
+          "backgroundColor": "#e0f9ea"
+        },
+        {
+          "name": "HIGHLY RATED",
+          "textColor": "#FFA500",
+          "backgroundColor": "#fff9e7"
+        },
+        {
+          "name": "GROWING FAST",
+          "textColor": "#7F00FF",
+          "backgroundColor": "#f8f1ff"
+        }
+      ],
+      "jobPosition": "Engineering Manager",
+      "jobLocation": {
+        "country": "Germany",
+        "city": "Berlin"
+      },
+      "salary": {
+        "minimum": "24K",
+        "maximum": "48K",
+        "currencySymbol": "$"
+      },
+      "jobCreatedAt": "09/01/2024",
+      "isJobSaved": false,
+      "isApplied": false
     }
   ]
 }
