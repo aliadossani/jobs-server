@@ -3,7 +3,11 @@ const jsonServer = require("json-server");
 const morgan = require("morgan");
 
 const server = jsonServer.create();
-const router = jsonServer.router("db.json");
+
+const fs = require('fs')
+const db = JSON.parse(fs.readFileSync('db.json'))
+const router = jsonServer.router(db);
+
 const middlewares = jsonServer.defaults();
 const PORT = process.env.PORT;
 
@@ -17,5 +21,5 @@ server.use((req, res, next) => {
 server.use(router);
 
 server.listen(PORT, () => {
-  console.log(`JSON Server is running at port ${PORT}`);
+  console.log(`http://localhost:${PORT}`);
 });

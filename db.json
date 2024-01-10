@@ -1,33 +1,156 @@
 {
-  "projects": [
+  "jobs": [
     {
+      "jobId": 1,
       "id": 1,
-      "title": "Module 2 Project",
-      "description": "Module 2 project - Integrate a React app with backend.",
-      "userId": 1
+      "image": "https://photos.wellfound.com/startups/i/351385-ea5b6a4c87ac1d32c798e9e1052a22f4-medium_jpg.jpg?buster=1659210294",
+      "companyName": "MediaMelon",
+      "companyDescription": "B2B SaaS Data Platform for Video Streaming (OTT) Analytics",
+      "companyOverview": "MediaMelon content-aware streaming technology for multi-screen and OTT video services is a unique approach that enables premium viewing experiences while minimizing operational costs, increasing revenues and improving profitability -- all without changing the existing video workflow. MediaMelon's full portfolio of solutions include content-aware streaming, intelligent content routing and analytics that create a global software fabric for efficient video streaming. MediaMelon QBR™ technology was named a Product Innovation Award winner in 2015 by Video Edge Magazine and received an outstanding score in the BTR Diamond Technology Reviews, judged by leading cable operators in the United States.",
+      "socialLinks": {
+        "website": "www.mediamelon.com",
+        "twitter": "https://twitter.com/mediamelon?lang=en",
+        "linkedIn": "https://www.linkedin.com/company/mediamelon/"
+      },
+      "companyTotalFunding": {
+        "currencySymbol": "$",
+        "amount": "9M"
+      },
+      "companyLocations": [
+        {
+          "country": "Germany",
+          "city": "Berlin"
+        }
+      ],
+      "companySize": "11-50 EMPLOYEES",
+      "tags": [
+        {
+          "name": "ACTIVELY HIRING",
+          "textColor": "#00FF00",
+          "backgroundColor": "#e0f9ea"
+        },
+        {
+          "name": "HIGHLY RATED",
+          "textColor": "#FFA500",
+          "backgroundColor": "#fff9e7"
+        },
+        {
+          "name": "GROWING FAST",
+          "textColor": "#7F00FF",
+          "backgroundColor": "#f8f1ff"
+        }
+      ],
+      "jobPosition": "Engineering Manager",
+      "jobLocation": {
+        "country": "Germany",
+        "city": "Berlin"
+      },
+      "salary": {
+        "minimum": "28k",
+        "maximum": "40k",
+        "currencySymbol": "$"
+      },
+      "jobCreatedAt": "POSTED TODAY",
+      "isJobSaved": false,
+      "isApplied": false
     },
     {
+      "jobId": 2,
       "id": 2,
-      "title": "Module 3 Project",
-      "description": "Create a full-stack application using MERN stack.",
-      "userId": 1
-    }
-  ],
-  "tasks": [
-    {
-      "id": 1,
-      "projectId": 1,
-      "description": "Use Vite to create a basic React app"
+      "image": "https://photos.wellfound.com/startups/i/27490-b8cb93e8d497683a2dea3387f8ca1c7b-medium_jpg.jpg?buster=1589465676",
+      "companyName": "FieldWire",
+      "companyDescription": "Easy-to-use software revolutionizing, transforming the way construction teams coordinate",
+      "companyOverview": "Fieldwire is the easiest way for construction companies to stay organized on the job site! Over 4,000 construction companies of all sizes use Fieldwire on nearly 1 million projects worldwide. Our easy-to-use mobile app includes plan viewing, task management, issue tracking, reporting, and more all in one place--think Dropbox, Slack, JIRA, and Trello combined and designed specifically for construction.",
+      "socialLinks": {
+        "website": "www.fieldwire.com/",
+        "twitter": "https://twitter.com/fieldwirehq",
+        "linkedIn": "https://www.linkedin.com/company/fieldwirelabs"
+      },
+      "companyTotalFunding": {
+        "currencySymbol": "€",
+        "amount": "30M"
+      },
+      "companyLocations": [
+        {
+          "country": "France",
+          "city": "Paris"
+        }
+      ],
+      "companySize": "51-200 EMPLOYEES",
+      "tags": [
+        {
+          "name": "HIGHLY RATED",
+          "textColor": "#FFA500",
+          "backgroundColor": "#fff9e7"
+        },
+        {
+          "name": "GROWING FAST",
+          "textColor": "#7F00FF",
+          "backgroundColor": "#f8f1ff"
+        }
+      ],
+      "jobPosition": "Engineering Manager",
+      "jobLocation": {
+        "country": "France",
+        "city": "Paris"
+      },
+      "salary": {
+        "minimum": "80k",
+        "maximum": "100k",
+        "currencySymbol": "€"
+      },
+      "jobCreatedAt": "POSTED 3 WEEKS AGO",
+      "isJobSaved": false,
+      "isApplied": false
     },
     {
-      "id": 2,
-      "projectId": 1,
-      "description": "Install React Router and setup routes"
-    },
-    {
+      "jobId": 3,
       "id": 3,
-      "projectId": 2,
-      "description": "Create a form with 5 input fields"
+      "image": "https://photos.wellfound.com/startups/i/6703167-0bd8ab68bd45fc7ec6c64ccf949b9781-medium_jpg.jpg?buster=1658736522",
+      "companyName": "Comeen",
+      "companyDescription": "Comeen is the platform for todays workplace experience",
+      "companyOverview": "",
+      "socialLinks": {
+        "website": "comeen.com",
+        "twitter": "",
+        "linkedIn": "https://www.linkedin.com/company/comeen-get-comeen/"
+      },
+      "companyTotalFunding": {
+        "currencySymbol": "₹",
+        "amount": "12M"
+      },
+      "companyLocations": [
+        {
+          "country": "India",
+          "city": "Mumbai"
+        }
+      ],
+      "companySize": "11-50 EMPLOYEES",
+      "tags": [
+        {
+          "name": "ACTIVELY HIRING",
+          "textColor": "#00FF00",
+          "backgroundColor": "#e0f9ea"
+        },
+        {
+          "name": "GROWING FAST",
+          "textColor": "#7F00FF",
+          "backgroundColor": "#f8f1ff"
+        }
+      ],
+      "jobPosition": "Tech Lead",
+      "jobLocation": {
+        "country": "India",
+        "city": "Mumbai"
+      },
+      "salary": {
+        "minimum": "50k",
+        "maximum": "67k",
+        "currencySymbol": "₹"
+      },
+      "jobCreatedAt": "POSTED 2 MONTHS AGO",
+      "isJobSaved": false,
+      "isApplied": false
     }
   ]
 }
