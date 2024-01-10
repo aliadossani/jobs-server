@@ -4,7 +4,7 @@
       "jobId": 1,
       "id": 1,
       "image": "https://photos.wellfound.com/startups/i/351385-ea5b6a4c87ac1d32c798e9e1052a22f4-medium_jpg.jpg?buster=1659210294",
-      "companyName": "MediaMelon1",
+      "companyName": "MediaMelon",
       "companyDescription": "B2B SaaS Data Platform for Video Streaming (OTT) Analytics",
       "companyOverview": "MediaMelon content-aware streaming technology for multi-screen and OTT video services is a unique approach that enables premium viewing experiences while minimizing operational costs, increasing revenues and improving profitability -- all without changing the existing video workflow. MediaMelon's full portfolio of solutions include content-aware streaming, intelligent content routing and analytics that create a global software fabric for efficient video streaming. MediaMelon QBR™ technology was named a Product Innovation Award winner in 2015 by Video Edge Magazine and received an outstanding score in the BTR Diamond Technology Reviews, judged by leading cable operators in the United States.",
       "socialLinks": {
@@ -149,6 +149,50 @@
         "currencySymbol": "₹"
       },
       "jobCreatedAt": "POSTED 2 MONTHS AGO",
+      "isJobSaved": false,
+      "isApplied": false
+    },
+    {
+      "jobId": 5,
+      "id": 5,
+      "image": "https://photos.wellfound.com/startups/i/337604-803ec9379b1c407fb6dd35612c5bbaeb-medium_jpg.jpg?buster=1551979602",
+      "companyName": "Bolt",
+      "companyDescription": "Let’s build the future of transportation together!",
+      "companyOverview": "Bolt is one of the fastest-growing startups in the world with over 100M happy customers in 45+ countries, from Europe to LatAm to Africa. We’re building the future of logistics – one platform that connects you with cars, motorcycles, scooter sharing, or food delivery from your favourite restaurant. Fast, convenient and affordable service for everyone. Let’s build the future of transportation together! See Careers",
+      "socialLinks": {
+        "website": "www.bolt.eu",
+        "twitter": "https://twitter.com/boltapp",
+        "linkedIn": "https://www.linkedin.com/company/bolt-eu/"
+      },
+      "companyTotalFunding": {
+        "currencySymbol": "$",
+        "amount": "2B"
+      },
+      "companyLocations": [
+        {
+          "country": "UK",
+          "city": "London"
+        }
+      ],
+      "companySize": "1001-5000 people",
+      "tags": [
+        {
+          "name": "ACTIVELY HIRING",
+          "textColor": "#00FF00",
+          "backgroundColor": "#e0f9ea"
+        }
+      ],
+      "jobPosition": "Engineering Manager",
+      "jobLocation": {
+        "country": "UK",
+        "city": "London"
+      },
+      "salary": {
+        "minimum": "20k",
+        "maximum": "30k",
+        "currencySymbol": "€"
+      },
+      "jobCreatedAt": "09/01/2024",
       "isJobSaved": false,
       "isApplied": false
     }
