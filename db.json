@@ -3,6 +3,141 @@
     {
       "jobId": 1,
       "id": 1,
+      "image": "https://photos.wellfound.com/startups/i/9937175-b02c565bbba3f4a0a60a0f257414486b-medium_jpg.jpg?buster=1704199702",
+      "companyName": "Faircado",
+      "companyDescription": "The Browser Extension To Find Cheaper Second Alternatives",
+      "companyOverview": "Faircado reinvents second-hand shopping with AI precision. Navigate the second-hand universe with tailored suggestions in a browser plugin. Marrying cost-effectiveness with planet-love, one find at a time.",
+      "socialLinks": {
+        "website": "www.faircado.com",
+        "twitter": "",
+        "linkedIn": ""
+      },
+      "companyTotalFunding": {
+        "currencySymbol": "",
+        "amount": ""
+      },
+      "companyLocations": [
+        {
+          "country": "Germany",
+          "city": "Berlin"
+        }
+      ],
+      "companySize": "11-50 people",
+      "tags": [
+        {
+          "name": "HIGHLY RATED",
+          "textColor": "#FFA500",
+          "backgroundColor": "#fff9e7"
+        },
+        {
+          "name": "GROWING FAST",
+          "textColor": "#7F00FF",
+          "backgroundColor": "#f8f1ff"
+        }
+      ],
+      "jobPosition": "Marketing Head",
+      "jobLocation": {
+        "country": "Germany",
+        "city": "Berlin"
+      },
+      "salary": {
+        "minimum": "30k",
+        "maximum": "70k",
+        "currencySymbol": "€"
+      },
+      "jobCreatedAt": "11/01/2024",
+      "isJobSaved": false,
+      "isApplied": false
+    },
+    {
+      "jobId": 2,
+      "id": 2,
+      "image": "https://photos.wellfound.com/startups/i/8367787-2285d8be40bf86cb6f0dc6922cc99ff2-medium_jpg.jpg?buster=1622726620",
+      "companyName": "ZEAL Ventures",
+      "companyDescription": "ZEAL Ventures invests in game changing lottery products",
+      "companyOverview": "",
+      "socialLinks": {
+        "website": "zeal-ventures.com/",
+        "twitter": "",
+        "linkedIn": ""
+      },
+      "companyTotalFunding": {
+        "currencySymbol": "$",
+        "amount": ""
+      },
+      "companyLocations": [
+        {
+          "country": "UK",
+          "city": "London"
+        }
+      ],
+      "companySize": "1-10 people",
+      "tags": [
+        {
+          "name": "ACTIVELY HIRING",
+          "textColor": "#00FF00",
+          "backgroundColor": "#e0f9ea"
+        },
+        {
+          "name": "HIGHLY RATED",
+          "textColor": "#FFA500",
+          "backgroundColor": "#fff9e7"
+        }
+      ],
+      "jobPosition": "UX Designer",
+      "jobLocation": {
+        "country": "UK",
+        "city": "London"
+      },
+      "salary": {
+        "minimum": "60k",
+        "maximum": "75k",
+        "currencySymbol": "€"
+      },
+      "jobCreatedAt": "11/01/2024",
+      "isJobSaved": false,
+      "isApplied": false
+    },
+    {
+      "jobId": 3,
+      "id": 3,
+      "image": "https://photos.wellfound.com/startups/i/6553869-420c5c89e530d97f496455405e25a9ca-medium_jpg.jpg?buster=1689758793",
+      "companyName": "QUIPU",
+      "companyDescription": "A Semantic AI Platform",
+      "companyOverview": "Quipu brings a semantic layer into streaming data to empower customers with actionable insights through real time analytics. We use the power of connected data to build smarter AI driven products for better insights of your business. Our semantic layer with rich feature set like intelligent search and natural language Q&A promotes rapid data discovery making your enterprise more intelligent.",
+      "socialLinks": {
+        "website": "thequipu.com/",
+        "twitter": "https://twitter.com/quipu18",
+        "linkedIn": "https://www.linkedin.com/company/ai-quipu"
+      },
+      "companyTotalFunding": {
+        "currencySymbol": "",
+        "amount": ""
+      },
+      "companyLocations": [
+        {
+          "country": "India",
+          "city": "Hyderabad"
+        }
+      ],
+      "companySize": "1-10 people",
+      "jobPosition": "Full Stack Engineer",
+      "jobLocation": {
+        "country": "India",
+        "city": "Hyderabad"
+      },
+      "salary": {
+        "minimum": "15L",
+        "maximum": "30L",
+        "currencySymbol": "₹"
+      },
+      "jobCreatedAt": "10/01/2024",
+      "isJobSaved": false,
+      "isApplied": false
+    },
+    {
+      "jobId": 4,
+      "id": 4,
       "image": "https://photos.wellfound.com/startups/i/351385-ea5b6a4c87ac1d32c798e9e1052a22f4-medium_jpg.jpg?buster=1659210294",
       "companyName": "MediaMelon",
       "companyDescription": "B2B SaaS Data Platform for Video Streaming (OTT) Analytics",
@@ -50,62 +185,13 @@
         "maximum": "40k",
         "currencySymbol": "$"
       },
-      "jobCreatedAt": "POSTED TODAY",
+      "jobCreatedAt": "10/01/2024",
       "isJobSaved": false,
       "isApplied": false
     },
     {
-      "jobId": 2,
-      "id": 2,
-      "image": "https://photos.wellfound.com/startups/i/27490-b8cb93e8d497683a2dea3387f8ca1c7b-medium_jpg.jpg?buster=1589465676",
-      "companyName": "FieldWire",
-      "companyDescription": "Easy-to-use software revolutionizing, transforming the way construction teams coordinate",
-      "companyOverview": "Fieldwire is the easiest way for construction companies to stay organized on the job site! Over 4,000 construction companies of all sizes use Fieldwire on nearly 1 million projects worldwide. Our easy-to-use mobile app includes plan viewing, task management, issue tracking, reporting, and more all in one place--think Dropbox, Slack, JIRA, and Trello combined and designed specifically for construction.",
-      "socialLinks": {
-        "website": "www.fieldwire.com/",
-        "twitter": "https://twitter.com/fieldwirehq",
-        "linkedIn": "https://www.linkedin.com/company/fieldwirelabs"
-      },
-      "companyTotalFunding": {
-        "currencySymbol": "€",
-        "amount": "30M"
-      },
-      "companyLocations": [
-        {
-          "country": "France",
-          "city": "Paris"
-        }
-      ],
-      "companySize": "51-200 EMPLOYEES",
-      "tags": [
-        {
-          "name": "HIGHLY RATED",
-          "textColor": "#FFA500",
-          "backgroundColor": "#fff9e7"
-        },
-        {
-          "name": "GROWING FAST",
-          "textColor": "#7F00FF",
-          "backgroundColor": "#f8f1ff"
-        }
-      ],
-      "jobPosition": "Engineering Manager",
-      "jobLocation": {
-        "country": "France",
-        "city": "Paris"
-      },
-      "salary": {
-        "minimum": "80k",
-        "maximum": "100k",
-        "currencySymbol": "€"
-      },
-      "jobCreatedAt": "POSTED 3 WEEKS AGO",
-      "isJobSaved": false,
-      "isApplied": false
-    },
-    {
-      "jobId": 3,
-      "id": 3,
+      "jobId": 5,
+      "id": 5,
       "image": "https://photos.wellfound.com/startups/i/6703167-0bd8ab68bd45fc7ec6c64ccf949b9781-medium_jpg.jpg?buster=1658736522",
       "companyName": "Comeen",
       "companyDescription": "Comeen is the platform for todays workplace experience",
@@ -148,13 +234,13 @@
         "maximum": "67k",
         "currencySymbol": "₹"
       },
-      "jobCreatedAt": "POSTED 2 MONTHS AGO",
+      "jobCreatedAt": "09/01/2024",
       "isJobSaved": false,
       "isApplied": false
     },
     {
-      "jobId": 5,
-      "id": 5,
+      "jobId": 6,
+      "id": 6,
       "image": "https://photos.wellfound.com/startups/i/337604-803ec9379b1c407fb6dd35612c5bbaeb-medium_jpg.jpg?buster=1551979602",
       "companyName": "Bolt",
       "companyDescription": "Let’s build the future of transportation together!",
@@ -197,8 +283,8 @@
       "isApplied": false
     },
     {
-      "jobId": 6,
-      "id": 6,
+      "jobId": 7,
+      "id": 7,
       "image": "https://photos.wellfound.com/startups/i/9767833-2684e4e7a150321c37df0f57e55ae38b-medium_jpg.jpg?buster=1695255792",
       "companyName": "Zenfeat",
       "companyDescription": "Making culinary endeavors & recognition a priority",
@@ -247,6 +333,148 @@
         "currencySymbol": "$"
       },
       "jobCreatedAt": "09/01/2024",
+      "isJobSaved": false,
+      "isApplied": false
+    },
+    {
+      "jobId": 8,
+      "id": 8,
+      "image": "https://photos.wellfound.com/startups/i/7156140-6667dcb19da8daa2fb728715a670670d-medium_jpg.jpg?buster=1566963513",
+      "companyName": "Wingspan",
+      "companyDescription": "Gusto for freelancers",
+      "companyOverview": "We're developing modern products, tools, and services designed for freelancers.",
+      "socialLinks": {
+        "website": "www.wingspan.app",
+        "twitter": "https://twitter.com/wingspanapp",
+        "linkedIn": "https://www.linkedin.com/company/wingspanhq"
+      },
+      "companyTotalFunding": {
+        "currencySymbol": "$",
+        "amount": "14M"
+      },
+      "companyLocations": [
+        {
+          "country": "Poland",
+          "city": "Warsaw"
+        }
+      ],
+      "companySize": "11-50 people",
+      "tags": [
+        {
+          "name": "ACTIVELY HIRING",
+          "textColor": "#00FF00",
+          "backgroundColor": "#e0f9ea"
+        },
+        {
+          "name": "GROWING FAST",
+          "textColor": "#7F00FF",
+          "backgroundColor": "#f8f1ff"
+        }
+      ],
+      "jobPosition": "Operations Support Analyst",
+      "jobLocation": {
+        "country": "Poland",
+        "city": "Warsaw"
+      },
+      "salary": {
+        "minimum": "20k",
+        "maximum": "40k",
+        "currencySymbol": "$"
+      },
+      "jobCreatedAt": "10/01/2024",
+      "isJobSaved": false,
+      "isApplied": false
+    },
+    {
+      "jobId": 9,
+      "id": 9,
+      "image": "https://photos.wellfound.com/startups/i/6658426-28b3f977704cdb27e39c1184a3100530-medium_jpg.jpg?buster=1544192975",
+      "companyName": "VIOOH",
+      "companyDescription": "Digital Programmatic Out Of Home Advertising",
+      "companyOverview": "We are an open, independent and global marketplace for out of home. We combine data and technology to enable brand safe and measurable advertising, connecting brands to the right audience, all with full transparency.",
+      "socialLinks": {
+        "website": "https://www.viooh.com/",
+        "twitter": "",
+        "linkedIn": "https://www.linkedin.com/company/viooh/"
+      },
+      "companyTotalFunding": {
+        "currencySymbol": "€",
+        "amount": "30M"
+      },
+      "companyLocations": [
+        {
+          "country": "UK",
+          "city": "London"
+        }
+      ],
+      "companySize": "51-200 EMPLOYEES",
+      "tags": [
+        {
+          "name": "ACTIVELY HIRING",
+          "textColor": "#00FF00",
+          "backgroundColor": "#e0f9ea"
+        }
+      ],
+      "jobPosition": "Marketing Intern",
+      "jobLocation": {
+        "country": "UK",
+        "city": "London"
+      },
+      "salary": {
+        "minimum": "19k",
+        "maximum": "25k",
+        "currencySymbol": "€"
+      },
+      "jobCreatedAt": "POSTED 2 WEEKS AGO",
+      "isJobSaved": false,
+      "isApplied": false
+    },
+    {
+      "jobId": 10,
+      "id": 10,
+      "image": "https://photos.wellfound.com/startups/i/27490-b8cb93e8d497683a2dea3387f8ca1c7b-medium_jpg.jpg?buster=1589465676",
+      "companyName": "FieldWire",
+      "companyDescription": "Easy-to-use software revolutionizing, transforming the way construction teams coordinate",
+      "companyOverview": "Fieldwire is the easiest way for construction companies to stay organized on the job site! Over 4,000 construction companies of all sizes use Fieldwire on nearly 1 million projects worldwide. Our easy-to-use mobile app includes plan viewing, task management, issue tracking, reporting, and more all in one place--think Dropbox, Slack, JIRA, and Trello combined and designed specifically for construction.",
+      "socialLinks": {
+        "website": "www.fieldwire.com/",
+        "twitter": "https://twitter.com/fieldwirehq",
+        "linkedIn": "https://www.linkedin.com/company/fieldwirelabs"
+      },
+      "companyTotalFunding": {
+        "currencySymbol": "€",
+        "amount": "30M"
+      },
+      "companyLocations": [
+        {
+          "country": "France",
+          "city": "Paris"
+        }
+      ],
+      "companySize": "51-200 EMPLOYEES",
+      "tags": [
+        {
+          "name": "HIGHLY RATED",
+          "textColor": "#FFA500",
+          "backgroundColor": "#fff9e7"
+        },
+        {
+          "name": "GROWING FAST",
+          "textColor": "#7F00FF",
+          "backgroundColor": "#f8f1ff"
+        }
+      ],
+      "jobPosition": "Engineering Manager",
+      "jobLocation": {
+        "country": "France",
+        "city": "Paris"
+      },
+      "salary": {
+        "minimum": "80k",
+        "maximum": "100k",
+        "currencySymbol": "€"
+      },
+      "jobCreatedAt": "POSTED 3 WEEKS AGO",
       "isJobSaved": false,
       "isApplied": false
     }
